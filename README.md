@@ -9,6 +9,7 @@ A collection of awesome things to help you fresh start a new project fast.
 
 
 - [React](#react)
+- [AngularJS](#angularjs)
 - [Node](#node)
 - [Web](#web)
 - [PHP](#php)
@@ -28,6 +29,11 @@ A collection of awesome things to help you fresh start a new project fast.
 - [React Redux Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-hot-loader
 - [Redux React Router Async Example](https://github.com/emmenko/redux-react-router-async-example) - A showcase of the Redux architecture with React Router
 
+## AngularJS
+
+- [Angular Kickstart](https://github.com/vesparny/angular-kickstart) - speed up your AngularJS development and testing with a great gulpjs build system.
+- [Starter Node Angular](https://github.com/scotch-io/starter-node-angular) - A starter kit for Node and Angular Single Page Apps
+
 ## Node
 
 - [Gulp Starter](https://github.com/vigetlabs/gulp-starter) - A delicious blend of gulp tasks combined into a configurable asset pipeline and static site builder
@@ -35,7 +41,6 @@ A collection of awesome things to help you fresh start a new project fast.
 - [Hackathon Starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
 - [Express Babel Starter](https://github.com/egoist/express-babel-starter) - Using Express with ES6+
 - [Meteor Starter](https://github.com/yogiben/meteor-starter) - A Meteor boilerplate with a lot packed in. Written in Coffeescript.
-- [Starter Node Angular](https://github.com/scotch-io/starter-node-angular) - A starter kit for Node and Angular Single Page Apps
 
 ## Web
 
