@@ -26,6 +26,7 @@ A collection of awesome things to help you fresh start a new project fast.
 - [React Starter Kit ](https://github.com/kriasoft/react-starter-kit) - a skeleton of an "isomorphic" web application / SPA built with React.js, Express, Flux, ES6+, JSX, Babel, PostCSS, Webpack, BrowserSync...
 - [React Server](https://github.com/egoist/react-server) - React server-side scaffold
 - [React Redux Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-hot-loader
+- [Redux React Router Async Example](https://github.com/emmenko/redux-react-router-async-example) - A showcase of the Redux architecture with React Router
 
 ## Node
 
@@ -45,7 +46,7 @@ A collection of awesome things to help you fresh start a new project fast.
 
 ## PHP
 
-- [Sage](https://github.com/roots/sage) - The best WordPress starter theme with a modern front-end development workflow. 
+- [Sage](https://github.com/roots/sage) - The best WordPress starter theme with a modern front-end development workflow.
 
 ## Jekyll
 
