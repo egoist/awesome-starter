@@ -28,6 +28,7 @@ A collection of awesome things to help you fresh start a new project fast.
 - [React Server](https://github.com/egoist/react-server) - React server-side scaffold
 - [React Redux Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example) - A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-hot-loader
 - [Redux React Router Async Example](https://github.com/emmenko/redux-react-router-async-example) - A showcase of the Redux architecture with React Router
+- [Starter Node React](https://github.com/wwsun/starter-node-react) - a starter project structure for react-app
 
 ## AngularJS
 
